@@ -5,7 +5,7 @@ That resulted in me going to Australia and New Zealand for about four years in t
 I have lived, worked and met new people at different places in those countries but I always knew I wanted have a life in the Netherlands.
 These experiences have formed me to the person I am right now, I have learned to handle stress well, I have always worked for what I wanted and it is in my nature to be curious, what results in a non stop learning circle!
 
-Experiencing differend experiences made me realise there is more then Hospitality, carriere whise, so I decided to start a new adventure at hogeschool Novi.
+Experiencing differend experiences made me realise there is more then Hospitality, so I decided to start a new adventure at hogeschool Novi.
 What resulted in finding a new passion: Programming! 
 I love the endless solutions, what allows me to be creative and I realise the learning curve is endless, what makes me enthausiastic!
 I cant wait for my next step, as I am currently finishing the bootcamp.

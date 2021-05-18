@@ -12,6 +12,6 @@ I can't wait for my next step, as I am currently finishing the bootcamp.
 
 The languages I am learning are HTML5, CSS3, Javascript, React, Java and SQL
 
-In my repository you will find some of the projects Novi gafe me and if you want to ask me any questions, don't hesitate to contact me!
+In my repository you will find some of the projects hogeschool Novi gafe me and if you want to ask me any questions, don't hesitate to contact me!
 
 ⚡😄📫💬🤔👯🌱🔭

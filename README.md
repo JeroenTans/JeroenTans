@@ -7,7 +7,7 @@ These experiences have formed me to the person I am right now, I have learned to
 
 Experiencing differend experiences made me realise there is more then Hospitality, so I decided to start a new adventure at hogeschool Novi.
 What resulted in finding a new passion: Programming! 
-I love the endless solutions, what allows me to be creative and I realise the learning curve is endless, what makes me enthausiastic!
+I love the endless solutions, what allows me to be creative and I realise the learning curve is never ending, what makes me enthausiastic!
 I cant wait for my next step, as I am currently finishing the bootcamp.
 
 The lagnuages I am learning are HTML5, CSS3, Javascript, React, Java and SQL

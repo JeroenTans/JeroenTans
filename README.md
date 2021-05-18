@@ -1,6 +1,7 @@
 ### A little bit about me and what I have been up to!👋⚡😄📫💬🤔👯🌱🔭
 
 My live goal in my younger years was seeing as many cultures as possible and living in as many countries as I could.
+
 That resulted in me going to Australia and New Zealand for about four years in total.
 I have lived, worked and met new people at different places in those countries but I always knew I wanted have a life in the Netherlands.
 These experiences have formed me to the person I am right now, I have learned to handle stress well, I have always worked for what I wanted and it is in my nature to be curious, what results in a non stop learning circle!

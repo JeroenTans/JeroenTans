@@ -1,4 +1,4 @@
-### A little bit about me and what I have been up to!👋⚡😄📫💬🤔👯🌱🔭
+🤔👯🌱🔭### A little bit about me and what I have been up to!👋⚡😄📫
 
 My live goal in my younger years was seeing as many cultures as possible and living in as many countries as I could.
 That resulted in me going to Australia and New Zealand for about four years in total.

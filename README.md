@@ -10,7 +10,7 @@ What resulted in finding a new passion: Programming!
 I love the endless solutions, what allows me to be creative and I realise the learning curve is never ending, what makes me enthausiastic!
 I cant wait for my next step, as I am currently finishing the bootcamp.
 
-The lagnuages I am learning are HTML5, CSS3, Javascript, React, Java and SQL
+The languages I am learning are HTML5, CSS3, Javascript, React, Java and SQL
 
 In my repository you will find some of the projects Novi gafe me and if you want to ask me any questions, dont hesitate to contact me!
 

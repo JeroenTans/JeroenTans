@@ -11,6 +11,6 @@ I cant wait for my next step, as I am currently finishing the bootcamp.
 
 The lagnuages I am learning are HTML5, CSS3, Javascript, React, Java and SQL
 
-If you want to ask me any questions, dont hesitate to contact me!
+In my repository you will find some of the projects Novi gafe me and if you want to ask me any questions, dont hesitate to contact me!
 
 ⚡😄📫💬🤔👯🌱🔭

@@ -1,17 +1,9 @@
-🤔👯🌱🔭### A little bit about me and what I have been up to!👋⚡😄📫
+🤔👯🌱🔭### Een klein stukje over mijn groeiende interesse in programmeren!👋⚡😄📫
 
-My life goal in mid twenties was seeing as many cultures as possible and living in as many countries as I could.
-That resulted in me going to Australia and New Zealand for about four years in total.
-I have lived, worked and met new people at different places in those countries but I always knew I wanted have a life in the Netherlands.
-These experiences have formed me to the person I am today, I have learned to handle stress well, I have always worked for what I wanted and it is in my nature to be curious, what results in a non-stop learning curve.
+Ik heb altijd verwonderd naar wiskundige formules gekeken en hou van deze structuur. 
+Het denkbeeldig zien van de "data-flow" vind ik erg interresant en het zelf mogen maken van deze "formules" geeft mij de mogelijkheid om creatief te zijn.
+Ik kan niet wachten om een nieuw avontuur aan te gaan en deel uit te maken van een team!
 
-Experiencing differend experiences made me realize there is more then Hospitality, so I decided to start a new adventure at hogeschool Novi.
-What resulted in finding a new passion: Programming! 
-I love the endless solutions, what allows me to be creative. Learning to program made me see that the learning curve is never ending, what makes me enthusiastic!
-I can't wait for my next step, as I am currently finishing the bootcamp.
-
-The languages I am learning are HTML5, CSS3, Javascript, React, Java and SQL
-
-In my repository you will find some of the projects hogeschool Novi gave me and if you want to ask me any questions, don't hesitate to contact me!
+in mijn repository kan je een aantal projecten vinden en als er vragen zijn hoor ik dit graag! 
 
 ⚡😄📫💬🤔👯🌱🔭
